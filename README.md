@@ -7,4 +7,4 @@ You must have python installed on your system.
 
 **Instructions:**
 1.  Clone or download this repository from http://github.com/mardymard/movie-site
-2.  Open and run the _entertainment_center.py_ file in your pyhton editor and run the module.
+2.  Open and run the _entertainment_center.py_ file in your python editor and run the module.

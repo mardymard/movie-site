@@ -1,4 +1,5 @@
 import fresh_tomatoes
+import media
 
 # Each movie is instanstiated using the Movie class located in the media module
 toy_story = media.Movie(
